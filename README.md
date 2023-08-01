@@ -39,7 +39,7 @@ Step-by-step instructions on how to install and set up the project locally on yo
 
 Clone the repository
 ```javascript
-git clone [[git@github.com:PiroAvni/SERVERSIDE_SEARCH_FILTERING_SORTING_PAGINATION_NODE_EXPRESS_MONGODB.git](https://github.com/PiroAvni/SERVERSIDE_SEARCH_FILTERING_SORTING_PAGINATION_NODE_EXPRESS_MONGODB.git)
+git clone https://github.com/PiroAvni/SERVERSIDE_SEARCH_FILTERING_SORTING_PAGINATION_NODE_EXPRESS_MONGODB.git
 ```
 
 Change directory
